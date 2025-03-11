@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left">I'm a 3rd year Computer Engineering student at the University of Waterloo</p>
 
-## Skills 
+## My Skills 
 <table><tr><td valign="top" width="50%">
 <h3 align="left">Languages:</h3>
 <div align="center">
