@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="50%">
   
-<h3 align="left">Tools/Frameworks:</h3>
+<h3 align="left">Tools and Frameworks:</h3>
 <div align="center">
 <a href="https://platform.openai.com/docs/overview" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/openai-icon-2021x2048-4rpe5x7n.png" alt="openai" width="40" height="40"/></a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> 
