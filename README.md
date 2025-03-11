@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋, I'm Akil</h1>
+<h1 align="center">Hi 👋, I'm Akil</h1>
 
 <p align="left">I'm a 3rd year Computer Engineering student at the University of Waterloo</p>
 
